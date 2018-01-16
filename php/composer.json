@@ -1,0 +1,13 @@
+{
+    "name": "vladimir/php",
+    "authors": [
+        {
+            "name": "Vladimir Ivanov",
+            "email": "vladimir.ivanov@socialsweethearts.de"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^6.5"
+    }
+}
